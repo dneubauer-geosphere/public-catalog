@@ -19,6 +19,10 @@
             {
               "Identifier": "20190629_00h00_h15",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif"
+            },
+            {
+              "Identifier": "testcog",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/testcog.tif"
             }
           ]
         }
