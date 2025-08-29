@@ -2,5 +2,21 @@
   "Name": "city_temperature_test",
   "Title": "city_temperature_test",
   "Description": "",
-  "Resources": []
+  "Resources": [
+    {
+      "Name": "COG source",
+      "Style": "",
+      "TimeEntries": [
+        {
+          "Time": "",
+          "Assets": [
+            {
+              "Identifier": "",
+              "File": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
