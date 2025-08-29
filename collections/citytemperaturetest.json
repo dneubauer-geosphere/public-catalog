@@ -5,7 +5,7 @@
   "Resources": [
     {
       "Name": "COG source",
-      "Style": "https://raw.githubusercontent.com/dneubauer-geosphere/public-catalog/refs/heads/dneubauer-geosphere/citytemperaturetest/styles/city_temperature_style.json",
+      "Style": "https://raw.githubusercontent.com/gtif-cerulean/assets/refs/heads/main/styles/coastal_change_monitoring_style.json",
       "Bbox": [
         16.137,
         48.048,
@@ -19,6 +19,10 @@
             {
               "Identifier": "20190629_00h00_h15",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/20190629_00h00_h15.tif"
+            },
+            {
+              "Identifier": "testcog",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/testcog.tif"
             }
           ]
         }
