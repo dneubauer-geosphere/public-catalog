@@ -29,5 +29,8 @@
       ]
     }
   ],
-  "Image": "./city_temperature_preview.png"
+  "Image": "city_temperature_preview.png",
+  "Agency": [
+    "GeoSphere Austria"
+  ]
 }
