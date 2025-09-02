@@ -1,7 +1,7 @@
 {
   "color": [
     "case",
-    ["<=", ["band", 1], 0],        // ignore invalid or nodata (<=0 K makes no sense)
+    ["==", ["band", 1], -9999],   // NoData
     [0, 0, 0, 0],                  // transparent
     // valid values: convert to Celsius and apply colormap
     [
