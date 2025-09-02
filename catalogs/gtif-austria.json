@@ -10,6 +10,7 @@
     "LULUCF_land_use_indicator",
     "ait_predictive_maintenance",
     "gtime-layer",
-    "citytemperaturetest"
+    "citytemperaturetest",
+    "coolingdegreedays"
   ]
 }
