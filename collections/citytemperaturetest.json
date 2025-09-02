@@ -235,5 +235,8 @@
   "Image": "assets/city_temperature_preview.jpg",
   "Agency": [
     "GeoSphere Austria"
+  ],
+  "Tags": [
+    "city_temperature"
   ]
 }
