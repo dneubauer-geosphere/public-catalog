@@ -30,5 +30,7 @@
   ],
   "Tags": [
     "city_temperature"
-  ]
+  ],
+  "CollectionGroup": "city_temperature",
+  "EodashIdentifier": "CDD"
 }
