@@ -4,7 +4,8 @@
     ["<", ["band", 3], 0],
     [0, 0, 0, 0],  // transparent for invalid values
     [
-      "match",
+      "interpolate",
+      ["linear"],
       ["band", 3],
       0, [177, 0, 38, 1],
       1, [253, 141, 60, 1],
