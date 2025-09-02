@@ -24,5 +24,11 @@
         }
       ]
     }
+  ],
+  "Agency": [
+    "GeoSphere Austria"
+  ],
+  "Tags": [
+    "city_temperature"
   ]
 }
