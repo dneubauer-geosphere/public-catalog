@@ -239,6 +239,5 @@
   "Tags": [
     "city_temperature"
   ],
-  "CollectionGroup": "city_temperature",
   "EodashIdentifier": "city_temperature"
 }
