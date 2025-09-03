@@ -5,7 +5,7 @@
   "CollectionGroup": "Capabilities",
   "EodashIdentifier": "city_temperature_indicator",
   "Collections": [
-    "citytemperaturetest",
-    "coolingdegreedays"
+    "citytemperaturetest_dont_use_yet",
+    "coolingdegreedays_dont_use_yet"
   ]
 }
