@@ -14,11 +14,92 @@
       ],
       "TimeEntries": [
         {
+          "Time": "2019-06-24T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190624_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190624_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-06-25T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190625_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190625_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-06-26T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190626_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190626_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-06-27T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190627_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190627_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-06-28T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190628_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190628_00h00_h00.tif"
+            }
+          ]
+        },
+        {
           "Time": "2019-06-29T00:00:00",
           "Assets": [
             {
               "Identifier": "20190629_00h00_h00",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190629_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-06-30T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190630_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190630_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-07-01T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190701_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190701_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-07-02T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190702_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190702_00h00_h00.tif"
+            }
+          ]
+        },
+        {
+          "Time": "2019-07-03T00:00:00",
+          "Assets": [
+            {
+              "Identifier": "20190703_00h00_h00",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/city_temperature_data_2019/20190703_00h00_h00.tif"
             }
           ]
         }
