@@ -113,5 +113,5 @@
     "city_temperature"
   ],
   "CollectionGroup": "city_temperature",
-  "EodashIdentifier": "CDD"
+  "EodashIdentifier": "cooling_degree_days"
 }
