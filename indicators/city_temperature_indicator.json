@@ -6,6 +6,6 @@
   "EodashIdentifier": "city_temperature_indicator",
   "Collections": [
     "city_temperature",
-    "CDD"
+    "cooling_degree_days"
   ]
 }
