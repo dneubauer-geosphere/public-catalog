@@ -8,9 +8,5 @@
     "citytemperature_not_working",
     "coolingdegreedays_not_working",
     "heatingdegreedays_not_working"
-  ],
-  "Disable": [
-    "coolingdegreedays",
-    "heatingdegreedays"
   ]
 }
