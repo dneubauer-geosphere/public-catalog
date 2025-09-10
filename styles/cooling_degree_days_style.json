@@ -44,14 +44,14 @@
             "type": "number",
             "title": "Minimum CDD (°C)",
             "minimum": 0,
-            "maximum": 30,
+            "maximum": 20,
             "default": 0
           },
           "vmax": {
             "type": "number",
             "title": "Maximum CDD (°C)",
             "minimum": 1,
-            "maximum": 30,
+            "maximum": 20,
             "default": 10
           }
         },
