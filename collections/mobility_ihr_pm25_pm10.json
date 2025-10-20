@@ -1,0 +1,32 @@
+{
+  "Name": "mobility_ihr_pm25_pm10",
+  "Title": "Mobility Impact on PM2.5 and PM10 Concentrations",
+  "Themes": [
+    "sustainable-cities"
+  ],
+  "Tags": [
+    "mobility"
+  ],
+  "Description": "TBD",
+  "Resources": [
+    {
+      "Name": "VectorTile source",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/style.json",
+      "Bbox": [
+        16.04,
+        47.94,
+        16.7,
+        48.48
+      ],
+      "TimeEntries": [
+        {
+          "Time": "20180101",
+          "Url": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/tiles_mobility_ihr_pm25_pm10/{z}/{x}/{y}.pbf"
+        }
+      ]
+    }
+  ],
+  "Agency": [
+    "ESA"
+  ]
+}
