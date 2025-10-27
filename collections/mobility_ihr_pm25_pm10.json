@@ -11,7 +11,7 @@
   "Resources": [
     {
       "Name": "VectorTile source",
-      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/style.json",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/style_2.json",
       "Bbox": [
         16.04,
         47.94,
@@ -20,13 +20,46 @@
       ],
       "TimeEntries": [
         {
-          "Time": "20180101",
-          "Url": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/tiles_mobility_ihr_pm25_pm10/{z}/{x}/{y}.pbf"
+          "Time": "20221226",
+          "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/tiles/WebMercatorQuad/{z}/{x}/{y}?filter=date=TIMESTAMP('2022-12-26T00:00:00')"
+        },
+        {
+          "Time": "20221227",
+          "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/tiles/WebMercatorQuad/{z}/{x}/{y}?filter=date=TIMESTAMP('2022-12-27T00:00:00')"
+        },
+        {
+          "Time": "20221228",
+          "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/tiles/WebMercatorQuad/{z}/{x}/{y}?filter=date=TIMESTAMP('2022-12-28T00:00:00')"
+        },
+        {
+          "Time": "20221229",
+          "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/tiles/WebMercatorQuad/{z}/{x}/{y}?filter=date=TIMESTAMP('2022-12-29T00:00:00')"
+        },
+        {
+          "Time": "20221230",
+          "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/tiles/WebMercatorQuad/{z}/{x}/{y}?filter=date=TIMESTAMP('2022-12-30T00:00:00')"
+        },
+        {
+          "Time": "20221231",
+          "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/tiles/WebMercatorQuad/{z}/{x}/{y}?filter=date=TIMESTAMP('2022-12-31T00:00:00')"
         }
       ]
     }
   ],
   "Agency": [
     "ESA"
-  ]
+  ],
+  "Process": {
+    "Name": "timeseries",
+    "JsonForm": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/form.json",
+    "VegaDefinition": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-09-Human-Mobility-Data/test/chart.json",
+    "EndPoints": [
+      {
+        "Identifier": "timeseries",
+        "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.gemeinden_timeseries_staging/items?filter=id={{feature.values_.id }}&f=csv&geom-column=#.csv",
+        "Type": "text/csv",
+        "Method": "GET"
+      }
+    ]
+  }
 }
