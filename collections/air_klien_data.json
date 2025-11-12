@@ -8,7 +8,7 @@
     "Resources": [
         {
             "Name": "VectorTile source",
-            "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-study/air/style.json",
+            "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/air/style.json",
             "Bbox": [
                 16.04,
                 47.94,
