@@ -18,7 +18,7 @@
             "TimeEntries": [
                 {
                     "Time": "20300101",
-                    "Url": "https://eoapi.workspace.test1.hub-int.eox.at/vector/collections/public.air_eepot_w23_wocc/tiles/WebMercatorQuad/{z}/{x}/{y}"
+                    "Url": "https://eoapi.workspace.gtif-eox.hub-otc.eox.at/vector/collections/public.air_eepot_w23_wocc/tiles/WebMercatorQuad/{z}/{x}/{y}"
                 }
             ]
         }
