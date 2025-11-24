@@ -2,5 +2,17 @@
   "Name": "gtif-wind-atlas",
   "Title": "GTIF Wind Atlas",
   "Description": "Description Windatlas Austria",
-  "Resources": []
+  "Resources": [
+    {
+      "Name": "COG source",
+      "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/gtif-wr-01-wind-atlas-style.json",
+      "Bbox": [
+        9.41002116668165,
+        46.282598741626764,
+        17.249824983234852,
+        49.08000036704142
+      ],
+      "TimeEntries": []
+    }
+  ]
 }
