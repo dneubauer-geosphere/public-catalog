@@ -17,6 +17,14 @@
           "Time": "2025",
           "Assets": [
             {
+              "Identifier": "01 - Elevation",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/TIFFs/Masks/dhm_merge_rasterbox_100m_matched.tif"
+            },
+            {
+              "Identifier": "02 - Slope",
+              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/TIFFs/Masks/slope_merge_rasterbox_100m_matched.tif"
+            },
+            {
               "Identifier": "03A - Nature Preservation Areas",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/TIFFs/Masks/03A_IUCN_V_und_VI_gt_1ha_mask_31287_matched.tif"
             },
@@ -51,14 +59,8 @@
             {
               "Identifier": "11 - Military",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/TIFFs/Masks/11_OSM_Truppenübungsplätze_EPSG31287_mask_31287_matched.tif"
-            },
-            {
-              "Identifier": "01 - Elevation",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/TIFFs/Masks/dhm_merge_rasterbox_100m_matched.tif"
-            },
-            {
-              "Identifier": "02 - Slope",
-              "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-01-Wind Atlas/TIFFs/Masks/slope_merge_rasterbox_100m_matched.tif"
+            }
+
             }
           ]
         }
