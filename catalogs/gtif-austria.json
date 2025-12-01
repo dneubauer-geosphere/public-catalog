@@ -12,7 +12,7 @@
     "gtime-layer",
     "city_temperature_indicator",
     "multitemporal-footprints",
-    "evapotranspiration-monitoring"
+    "evapotranspiration-monitoring",
     "mobility_ihr_pm25_pm10"
   ]
 }
