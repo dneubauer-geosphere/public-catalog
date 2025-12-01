@@ -1,1 +1,10 @@
-{}
+{
+  "Name": "pvpot_fc_indicator",
+  "Title": "Nowcasting of theoretical PV potential in Austria",
+  "Description": "TBD",
+  "CollectionGroup": "Capabilities",
+  "EodashIdentifier": "pvpot_fc_indicator",
+  "Collections": [
+    "solar-potential-nowcasting",
+    "wr-03-solar-glo",  ],
+}
