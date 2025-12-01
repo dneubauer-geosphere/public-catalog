@@ -6,5 +6,6 @@
   "EodashIdentifier": "pvpot_fc_indicator",
   "Collections": [
     "solar-potential-nowcasting",
-    "wr-03-solar-glo",  ],
+    "wr-03-solar-glo"
+  ],
 }
