@@ -12,6 +12,6 @@
     "gtime-layer",
     "city_temperature_indicator",
     "multitemporal-footprints",
-    "solar-potential-nowcasting"
+    "pvpor_fc"
   ]
 }
