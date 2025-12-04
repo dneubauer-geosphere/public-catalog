@@ -13,6 +13,7 @@
     "city_temperature_indicator",
     "multitemporal-footprints",
     "evapotranspiration-monitoring",
-    "mobility_ihr_pm25_pm10"
+    "mobility_ihr_pm25_pm10",
+    "mobility_asfinag"
   ]
 }
