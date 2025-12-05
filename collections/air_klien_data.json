@@ -4,7 +4,7 @@
     "Themes": [
         "sustainable-cities"
     ],
-    "Description": "[download raw sdata](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/air_EEPOT_W23_woCC.csv)",
+    "Description": "[download raw sdata](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/air/air_EEPOT_W23.geojson)",
     "Resources": [
         {
             "Name": "VectorTile source",
