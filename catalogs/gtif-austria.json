@@ -13,6 +13,7 @@
     "city_temperature_indicator",
     "multitemporal-footprints",
     "evapotranspiration-monitoring",
-    "wr02-pvpot"
+    "wr02solar",
+    "pvpot_fc"
   ]
 }
