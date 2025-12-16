@@ -5,12 +5,12 @@
   "Resources": [
     {
       "Name": "GeoJSON source",
-      "Style": "",
+      "Style": "https://workspace-ui-public.gtif-austria.hub.eox.at/api/public/share/public/WR-04-Urban-Energy-Performance-Monitor/style.json",
       "Bbox": [
-        15.969746501311832,
-        47.929616793437766,
-        16.757603237539268,
-        48.51768077270887
+        16.217712666304386,
+        48.049534840858605,
+        16.55084446045762,
+        48.359185028958414
       ],
       "TimeEntries": [
         {
