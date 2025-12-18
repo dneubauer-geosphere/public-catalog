@@ -23,6 +23,16 @@
         "Identifier": "nc2",
         "Url": "https://statistics.gtif.eox.at/geoparquet-stats/?geoparquet_url=https://gtif-austria.github.io/public-catalog/pr-preview/pr-58/GTIF-Austria/pvpot_fc/Solar-Potential-Nowcasting-2/items.parquet&bbox={{bbox.0}}&bbox={{bbox.1}}&bbox={{bbox.2}}&bbox={{bbox.3}}#.json",
         "Type": "application/json"
+      },
+      {
+        "Identifier": "glo1",
+        "Url": "https://statistics.gtif.eox.at/geoparquet-stats/?geoparquet_url=https://gtif-austria.github.io/public-catalog/pr-preview/pr-58/GTIF-Austria/pvpot_fc/Solar-Potential-Nowcasting-Glo-Run1/items.parquet&bbox={{bbox.0}}&bbox={{bbox.1}}&bbox={{bbox.2}}&bbox={{bbox.3}}#.json",
+        "Type": "application/json"
+      },
+      {
+        "Identifier": "glo2",
+        "Url": "https://statistics.gtif.eox.at/geoparquet-stats/?geoparquet_url=https://gtif-austria.github.io/public-catalog/pr-preview/pr-58/GTIF-Austria/pvpot_fc/Solar-Potential-Nowcasting-Glo-Run2/items.parquet&bbox={{bbox.0}}&bbox={{bbox.1}}&bbox={{bbox.2}}&bbox={{bbox.3}}#.json",
+        "Type": "application/json"
       }
     ],
     "VegaDefinition": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-03-Energy-Nowcasting-Solar-Wind/process/vega.json"
