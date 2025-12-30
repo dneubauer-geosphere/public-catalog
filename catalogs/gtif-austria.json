@@ -15,6 +15,7 @@
     "air_eepot_w23_wocc",
     "evapotranspiration-monitoring",
     "aquifer_eepot_w23_wocc",
-    "closed_systems_eepot_w23_wocc"
+    "closed_systems_eepot_w23_wocc",
+    "wind_eepot_w23"
   ]
 }
