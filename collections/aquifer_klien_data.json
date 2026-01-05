@@ -4,6 +4,7 @@
     "Themes": [
         "sustainable-cities"
     ],
+    "CollectionGroup": "KLIEN data - Ambient Energy Potential",
     "Description": "[download raw data](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/ambient/aquifer/aquifer_EEPOT_W23_woCC.geojson)",
     "Resources": [
         {
