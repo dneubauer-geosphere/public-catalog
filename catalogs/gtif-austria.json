@@ -19,6 +19,7 @@
     "wind_eepot_w23",
     "hydro_eepot_w23",
     "excess_heat_hp_eepot_w23_wocc",
-    "excess_heat_dir_eepot_w23_wocc"
+    "excess_heat_dir_eepot_w23_wocc",
+    "river_eepot_w23_wocc"
   ]
 }
