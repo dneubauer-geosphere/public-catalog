@@ -20,6 +20,10 @@
     "hydro_eepot_w23",
     "excess_heat_hp_eepot_w23_wocc",
     "excess_heat_dir_eepot_w23_wocc",
-    "river_eepot_w23_wocc"
+    "river_eepot_w23_wocc",
+    "pv_buildings_eepot_w23_wocc",
+    "pv_ground_mounted_sealed_eepot_w23_wocc",
+    "pv_ground_mounted_unsealed_eepot_w23_wocc",
+    "pv_total_eepot_w23_wocc"
   ]
 }
