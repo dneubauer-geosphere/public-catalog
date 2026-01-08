@@ -17,7 +17,7 @@
           "Time": "2025",
           "Assets": [
             {
-              "Identifier": "geojsonfile2025",
+              "Identifier": "UEPI index",
               "File": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-04-Urban-Energy-Performance-Monitor/buildings_uepi_indexed.geojson"
             }
           ]
