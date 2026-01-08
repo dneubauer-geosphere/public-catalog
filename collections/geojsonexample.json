@@ -1,7 +1,7 @@
 {
   "Name": "UEPI_visualizer",
   "Title": "Urban energy performance monitor",
-  "Description": "This visualization demonstrates how urban energy performance index may be used to identify most promising candidates for renovation and refurbishing",
+  "Description": "This visualization demonstrates how urban energy performance index (UEPI) may be used to identify most promising candidates for renovation and refurbishing",
   "Resources": [
     {
       "Name": "GeoJSON source",
