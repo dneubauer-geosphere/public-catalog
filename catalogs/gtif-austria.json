@@ -11,8 +11,12 @@
     "ait_predictive_maintenance",
     "gtime-layer",
     "city_temperature_indicator",
+    "geothermal_energy_potential",
     "multitemporal-footprints",
     "evapotranspiration-monitoring",
-    "pvpot_fc"
+    "wr02solar",
+    "pvpot_fc",
+    "n_vision_indicator",
+    "brownfield-recovery-potential"
   ]
 }
