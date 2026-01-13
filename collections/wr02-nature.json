@@ -1,6 +1,7 @@
 {
   "Name": "WR-02-Solar-Nature",
   "Title": "National Parks",
+  "Image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp",
   "Description": "This layer presents the national parks in Austria.\nThe data can be downloaded from [data.gc.at](https://docs.umweltbundesamt.at/s/C5AKbtBp9BTPiMK).",
   "Resources": [
     {
