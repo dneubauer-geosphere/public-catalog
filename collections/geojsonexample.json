@@ -1,7 +1,7 @@
 {
   "Name": "UEPI_visualizer",
   "Title": "Urban energy performance monitor",
-  "Description": "This visualization demonstrates how urban energy performance index (UEPI) may be used to identify most promising candidates for renovation and refurbishing.",
+  "Description": "**UEPI (Urban Energy Performance Index)** combines heat‑loss signals (from LST analysis), building age, and building size into a relative retrofit‑priority score.  \n**Scale 0–100:** **0 = high retrofit need (high priority)**, **100 = good (low priority)**.  \n**Weighting:** heat loss **50%**, age **30%**, size **20%**. Critical cases (high loss + old building) and very large buildings receive additional amplification.",
   "Resources": [
     {
       "Name": "GeoJSON source",
