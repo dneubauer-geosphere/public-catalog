@@ -2,6 +2,7 @@
   "Name": "Solar-Potential-Nowcasting-Glo-Run1",
   "Title": "Global Solar Radiation (Run 1)",
   "Description": "Description of GLO (Run1)",
+  "Image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/evapotranspiration-monitoring-2/assets/triebnigg/solar-potential-1749907032353.webp",
   "Resources": [
     {
       "Name": "COG source",
