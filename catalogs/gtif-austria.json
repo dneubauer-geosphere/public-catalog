@@ -11,11 +11,17 @@
     "ait_predictive_maintenance",
     "gtime-layer",
     "city_temperature_indicator",
+    "geothermal_energy_potential",
     "multitemporal-footprints",
     "evapotranspiration-monitoring",
     "mobility_ihr_pm25_pm10",
     "mobility_asfinag",
     "mobility_no2",
-    "mobility_daily_traffic"
+    "mobility_daily_traffic",
+    "gtif-wind-atlas",
+    "wr02solar",
+    "pvpot_fc",
+    "n_vision_indicator",
+    "brownfield-recovery-potential"
   ]
 }
