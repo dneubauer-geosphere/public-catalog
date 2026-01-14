@@ -9,6 +9,11 @@
     "coolingdegreedays",
     "heatingdegreedays"
   ],
+ "Theme": [
+    {
+      "Sustainable Cities"
+    }
+  ], 
   "Provider": [
     {
       "Name": "GeoSphere",
