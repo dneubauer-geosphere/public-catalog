@@ -2,7 +2,7 @@
     "Name": "wind_eepot_w23",
     "Title": "Wind Energy",
     "Themes": [
-        "sustainable-cities"
+        "Energy Transition"
     ],
     "CollectionGroup": "KLIEN data - Wind Energy Potential",
     "Description": "[download raw data](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/wind/wind_EEPOT_W23.geojson)",
