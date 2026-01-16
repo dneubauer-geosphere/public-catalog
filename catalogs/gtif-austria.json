@@ -28,6 +28,10 @@
     "st_buildings_eepot_w23_wocc",
     "st_ground_mounted_eepot_w23_wocc",
     "comparison_generated_heat_absolut_eepot_w23_wocc",
-    "comparison_generated_heat_share_eepot_w23_wocc"
+    "comparison_generated_heat_share_eepot_w23_wocc",
+    "comparison_electricity_e_absolut_eepot_w23_wocc",
+    "comparison_electricity_e_share_eepot_w23_wocc",
+    "comparison_electricity_lcoe_eepot_w23_wocc",
+    "comparison_electricity_mv_eepot_w23_wocc"
   ]
 }
