@@ -5,7 +5,7 @@
         "Energy Transition"
     ],
     "CollectionGroup": "KLIEN data - Ambient Energy Potential",
-    "Description": "[download raw data](https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/ambient/river/river_EEPOT_W23.geojson)",
+    "Description": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/descriptions/Web_Box_Water-Sourced%20Heat%20from%20Flowing%20Water%20Bodies%20(Aquathermy)_EN.md",
     "Resources": [
         {
             "Name": "VectorTile source",
