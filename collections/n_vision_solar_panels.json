@@ -3,6 +3,12 @@
     "Title": "Solar Panels",
     "CollectionGroup": " ",
     "Image": "https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nvisionpublic/nvision-solar-panels-cover.webp",
+     "Provider": [
+       {
+      "Name": "N Vision",
+      "Url": "https://www.n-vision.ai/"
+       }
+    ],
     "Themes": [
         "sustainable-cities"
     ],
@@ -34,9 +40,6 @@
                 47.113
             ]
         }
-    ],
-    "Agency": [
-        "ESA"
     ],
     "BaseLayers": [
         {
