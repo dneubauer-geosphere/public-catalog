@@ -11,10 +11,10 @@
             "Name": "VectorTile source",
             "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/KLIEN-studie/ambient/comparison/comparison_generated_heat_share_style.json",
             "Bbox": [
-                16.04,
-                47.94,
-                16.7,
-                48.48
+                9.5,
+                46.4,
+                17.1,
+                49.1
             ],
             "TimeEntries": [
                 {
