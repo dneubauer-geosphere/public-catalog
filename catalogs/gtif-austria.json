@@ -32,6 +32,8 @@
     "comparison_electricity_e_absolut_eepot_w23_wocc",
     "comparison_electricity_e_share_eepot_w23_wocc",
     "comparison_electricity_lcoe_eepot_w23_wocc",
-    "comparison_electricity_mv_eepot_w23_wocc"
+    "comparison_electricity_mv_eepot_w23_wocc",
+    "comparison_grid_c_eepot_w23_wocc",
+    "comparison_grid_e_eepot_w23_wocc"
   ]
 }
