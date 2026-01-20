@@ -1,10 +1,21 @@
 {
     "Name": "excess_heat_dir_eepot_w23_wocc",
-    "Title": "Excess Heat - Direct Utilization",
+    "Title": "Waste Heat - Direct Utilization",
     "Themes": [
         "Energy Transition"
     ],
-    "CollectionGroup": "KLIEN data - Ambient Energy Potential",
+    "Image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Waste%20heat.jpg",
+    "CollectionGroup": "KLIEN data - Ambient Heat Potential",
+    "Provider": [
+        {
+            "Name": "AEE Intec",
+            "Url": "https://www.aee-intec.at/"
+        },
+        {
+            "Name": "AIT Center for Energy",
+            "Url": "https://www.ait.ac.at/en/about-the-ait/center/center-for-energy"
+        }
+    ],
     "Description": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/descriptions/Web_Box_Waste%20heat_EN.md",
     "Resources": [
         {
