@@ -1,10 +1,29 @@
 {
     "Name": "comparison_grid_c_eepot_w23_wocc",
-    "Title": "Comparison Grid - Capacity",
+    "Title": "Grid Capacity and Electricity Potential in Capacity Terms",
     "Themes": [
         "Energy Transition"
     ],
-    "CollectionGroup": "KLIEN data - Comparison of Grid Potential",
+    "Image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Grid%20Capacity%20and%20Potentials.jpg",
+    "CollectionGroup": "Grid Capacities and Renewable Energy Potentials",
+    "Provider": [
+        {
+            "Name": "Energiewerkstatt",
+            "Url": "https://energiewerkstatt.org/?lang=en"
+        },
+        {
+            "Name": "AIT Center for Energy",
+            "Url": "https://www.ait.ac.at/en/about-the-ait/center/center-for-energy"
+        },
+        {
+            "Name": "AEA",
+            "Url": "https://www.energyagency.at/en/"
+        },
+        {
+            "Name": "ebUtilities",
+            "Url": "https://www.ebutilities.at/verfuegbare-netzanschlusskapazitaeten"
+        }
+    ],
     "Description": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/descriptions/Web_Box_Comparison_grid-potentials.md",
     "Resources": [
         {
