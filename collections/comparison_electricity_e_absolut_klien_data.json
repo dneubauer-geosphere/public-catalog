@@ -1,10 +1,21 @@
 {
     "Name": "comparison_electricity_e_absolut_eepot_w23_wocc",
-    "Title": "Comparison Electricity - E Absolut",
+    "Title": "Electricity Generation Potential",
     "Themes": [
         "Energy Transition"
     ],
-    "CollectionGroup": "KLIEN data - Comparison of Electricity Potential",
+    "Image": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Energy%20Planning%20-%20Electricity.jpg",
+    "CollectionGroup": "Support for Energy Planning – Electricity Demand and Supply Potentials",
+    "Provider": [
+        {
+            "Name": "AIT Center for Energy",
+            "Url": "https://www.ait.ac.at/en/about-the-ait/center/center-for-energy"
+        },
+        {
+            "Name": "AEA",
+            "Url": "https://www.energyagency.at/en/"
+        }
+    ],
     "Description": "https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/descriptions/Web_Box_Comparison_electricity.md",
     "Resources": [
         {
