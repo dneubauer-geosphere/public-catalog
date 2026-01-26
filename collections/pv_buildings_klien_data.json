@@ -8,8 +8,8 @@
     "CollectionGroup": "KLIEN Data – Photovoltaic Energy Potential",
     "Provider": [
         {
-            "Name": "AEA",
-            "Url": "https://www.energyagency.at/en/"
+            "Name": "Umweltbundesamt",
+            "Url": "https://www.umweltbundesamt.at/en/"
         },
         {
             "Name": "AIT Center for Energy",
