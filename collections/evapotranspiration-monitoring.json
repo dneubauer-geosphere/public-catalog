@@ -70,7 +70,7 @@
           "Time": "2025-11-01",
           "Assets": [
             {
-              "Identifier": "Evapotrans_monit_2025_10",
+              "Identifier": "Evapotrans_monit_2025_11",
               "File": "https://workspace-ui-public.gtif-at-get-it.hub-otc.eox.at/api/public/share/public-ebxe9szx-v1/evapotrans_monit/Austria_ET_2025_10.tif"
             }
           ]
@@ -79,7 +79,7 @@
           "Time": "2025-12-01",
           "Assets": [
             {
-              "Identifier": "Evapotrans_monit_2025_10",
+              "Identifier": "Evapotrans_monit_2025_12",
               "File": "https://workspace-ui-public.gtif-at-get-it.hub-otc.eox.at/api/public/share/public-ebxe9szx-v1/evapotrans_monit/Austria_ET_2025_10.tif"
             }
           ]
