@@ -8,13 +8,13 @@
     "CollectionGroup": "KLIEN data - Ambient Heat Potential",
     "Stories": [
         {
-            "Name": "Narrative Waste Heat",
+            "Name": "Narrative Excess Heat",
             "Url": "https://gtif-austria.info/narratives/t74-waste-heat-v2"
         }
     ],
     "Provider": [
         {
-            "Name": "AEE Intec",
+            "Name": "AEE INTEC",
             "Url": "https://www.aee-intec.at/"
         },
         {
