@@ -2,15 +2,26 @@
   "Name": "UEPI_visualizer_2",
   "Title": "Urban energy performance monitor",
   "Description": "**UEPI (Urban Energy Performance Index)** combines heat‑loss signals (from LST analysis), building age, and building size into a relative retrofit‑priority score.  \n**Scale 0–100:** **0 = high retrofit need (high priority)**, **100 = good (low priority)**.  \n**Weighting:** heat loss **50%**, age **30%**, size **20%**. Critical cases (high loss + old building) and very large buildings receive additional amplification.\n",
+  "BaseLayers": [
+    {
+      "id": "bmaporthofoto30cm",
+      "name": "Geoland Basemap Orthofoto",
+      "url": "https://mapsneu.wien.gv.at/basemap/bmaporthofoto30cm/normal/google3857/{z}/{y}/{x}.jpeg",
+      "Attribution": "{ Datenquelle: <a href=\"https://basemap.at\" target=\"_blank\" property=\"dct:title\">basemap.at</a> }",
+      "visible": true,
+      "maxNativeZoom": 18,
+      "protocol": "xyz"
+    }
+  ],
   "Resources": [
     {
       "Name": "GeoJSON source",
       "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-04-Urban-Energy-Performance-Monitor/style.json",
       "Bbox": [
-        15.986491373875314,
-        47.9514621901357,
-        16.75157189123409,
-        48.50186194233224
+        16.252,
+        48.106,
+        16.311,
+        48.086
       ],
       "TimeEntries": [
         {
