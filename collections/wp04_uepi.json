@@ -9,7 +9,6 @@
       "url": "https://mapsneu.wien.gv.at/basemap/bmaporthofoto30cm/normal/google3857/{z}/{y}/{x}.jpeg",
       "Attribution": "{ Datenquelle: <a href=\"https://basemap.at\" target=\"_blank\" property=\"dct:title\">basemap.at</a> }",
       "visible": true,
-      "maxNativeZoom": 18,
       "protocol": "xyz"
     }
   ],
@@ -18,10 +17,10 @@
       "Name": "GeoJSON source",
       "Style": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-04-Urban-Energy-Performance-Monitor/style.json",
       "Bbox": [
-        16.252,
-        48.106,
-        16.311,
-        48.086
+        16.255767946312947,
+        48.08438283145376,
+        16.316170870817853,
+        48.10503139601241
       ],
       "TimeEntries": [
         {
@@ -36,5 +35,11 @@
       ]
     }
   ],
-  "Image": "https://obs.eu-nl.otc.t-systems.com/gtif-austria/public/WR-04-Urban-Energy-Performance-Monitor/Energy-performance-of-buildings-hero-1749975057844.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ZF4DNQKHYPLZN95ABGS6%2F20260128%2Feu-nl%2Fs3%2Faws4_request&X-Amz-Date=20260128T115834Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea728a7c28ba47e2979df71c72f684224b2b9ea1669dd1f6e89fc8f2bd2bf047"
+  "Image": "https://obs.eu-nl.otc.t-systems.com/gtif-austria/public/WR-04-Urban-Energy-Performance-Monitor/Energy-performance-of-buildings-hero-1749975057844.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ZF4DNQKHYPLZN95ABGS6%2F20260128%2Feu-nl%2Fs3%2Faws4_request&X-Amz-Date=20260128T115834Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea728a7c28ba47e2979df71c72f684224b2b9ea1669dd1f6e89fc8f2bd2bf047",
+  "Provider": [
+    {
+      "Name": "Austrian Institute of Technology - Digital resilient cities and regions",
+      "Url": "https://www.ait.ac.at/en/solutions/sustainable-cities-regions-and-living-spaces"
+    }
+  ]
 }
