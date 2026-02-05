@@ -2,6 +2,8 @@
   "Name": "UEPI_visualizer_2",
   "Title": "Urban energy performance monitor",
   "Description": "**UEPI (Urban Energy Performance Index)** combines heat‑loss signals (from LST analysis), building age, and building size into a relative retrofit‑priority score.  \n**Scale 0–100:** **0 = high retrofit need (high priority)**, **100 = good (low priority)**.  \n**Weighting:** heat loss **50%**, age **30%**, size **20%**. Critical cases (high loss + old building) and very large buildings receive additional amplification.\n",
+  "Themes": ["Sustainable Cities", "Energy Transition"],
+  "CollectionGroup": "Sustainable Cities",
   "BaseLayers": [
     {
       "id": "bmaporthofoto30cm",
@@ -35,7 +37,7 @@
       ]
     }
   ],
-  "Image": "https://obs.eu-nl.otc.t-systems.com/gtif-austria/public/WR-04-Urban-Energy-Performance-Monitor/Energy-performance-of-buildings-hero-1749975057844.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ZF4DNQKHYPLZN95ABGS6%2F20260128%2Feu-nl%2Fs3%2Faws4_request&X-Amz-Date=20260128T115834Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ea728a7c28ba47e2979df71c72f684224b2b9ea1669dd1f6e89fc8f2bd2bf047",
+  "Image": "https://workspace-ui-public.gtif-austria.hub-otc.eox.at/api/public/share/public-4wazei3y-02/WR-04-Urban-Energy-Performance-Monitor/Energy-performance-of-buildings-hero-1749975057844.jpg",
   "Provider": [
     {
       "Name": "Austrian Institute of Technology - Digital resilient cities and regions",
